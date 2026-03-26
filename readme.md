@@ -4,7 +4,7 @@ A high-performance, modular stunt jump system for FiveM
 
 This script brings the classic GTA stunt jump experience to your FiveM server with a competitive side!. Players can find stunt jumps, compete for the fastest times and highest air, and climb the global leaderboards.
 
-[Stunt Jump Example](https://youtu.be/JLnn0gu1rXA)
+[Stunt Jump Example](https://youtu.be/JLnn0gu1rXA) | 
 [Stunt Jump Creator Example](https://youtu.be/9NlGzwdTIOg)
 
 ---
