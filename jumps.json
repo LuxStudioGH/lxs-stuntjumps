@@ -1,0 +1,701 @@
+{
+    "angledStuntJumps": [
+        {
+            "landingPos": {
+                "end": "vector3(41.4566, 1758.4, 213.036)",
+                "radius": 30,
+                "start": "vector3(98.6615, 1846.07, 173.665)"
+            },
+            "camPos": "vector3(58.2, 1729.6, 228.1)",
+            "hash": "7da679f2",
+            "jumpPos": {
+                "end": "vector3(14.6207, 1712.37, 230.379)",
+                "radius": 10,
+                "start": "vector3(8.06, 1715.53, 226.13)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-448.88, -1342.78, 30.2657)",
+                "radius": 24,
+                "start": "vector3(-435.02, -1242.03, 48.4341)"
+            },
+            "camPos": "vector3(-462.663, -1212.36, 58.3663)",
+            "hash": "e842f4d4",
+            "jumpPos": {
+                "end": "vector3(-442.851, -1190.49, 57.1253)",
+                "radius": 6,
+                "start": "vector3(-439.89, -1191.59, 54.18)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(450.533, 4342.31, 66.8843)",
+                "radius": 25.75,
+                "start": "vector3(401.468, 4394.32, 61.7828)"
+            },
+            "camPos": "vector3(454.123, 4323.5, 68.7393)",
+            "hash": "1a587aa1",
+            "jumpPos": {
+                "end": "vector3(474.212, 4328.24, 64.0044)",
+                "radius": 10,
+                "start": "vector3(471.86, 4323.29, 59.69)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-55.4851, 6689.39, 14.5181)",
+                "radius": 21,
+                "start": "vector3(-151.756, 6588.69, 8.77298)"
+            },
+            "camPos": "vector3(-166.026, 6588.81, 11.696)",
+            "hash": "e3f1abdf",
+            "jumpPos": {
+                "end": "vector3(-162.136, 6575.2, 16.1902)",
+                "radius": 6,
+                "start": "vector3(-165.62, 6575.84, 11.78)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-1008.68, 4219.65, 117.845)",
+                "radius": 24,
+                "start": "vector3(-1068.25, 4267.54, 101.999)"
+            },
+            "camPos": "vector3(-977, 4247, 144)",
+            "hash": "bff727e4",
+            "jumpPos": {
+                "end": "vector3(-969.156, 4188.99, 138.607)",
+                "radius": 9,
+                "start": "vector3(-973.63, 4182.45, 134.88)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-100.728, -1024.36, 29.274)",
+                "radius": 38.75,
+                "start": "vector3(-32.0644, -1018.62, 26.9098)"
+            },
+            "camPos": "vector3(-36, -1037, 47)",
+            "hash": "371daf35",
+            "jumpPos": {
+                "end": "vector3(-6.54417, -1033.32, 41.5741)",
+                "radius": 5,
+                "start": "vector3(-5.09, -1035.52, 38.12)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-176.949, -812.364, 34.239)",
+                "radius": 25.75,
+                "start": "vector3(-213.378, -799.554, 28.454)"
+            },
+            "camPos": "vector3(-163.427, -787.837, 53.7828)",
+            "hash": "1fbaa38c",
+            "jumpPos": {
+                "end": "vector3(-270.516, -775.41, 60.1028)",
+                "radius": 6,
+                "start": "vector3(-268.051, -770.596, 55.124)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-177.548, -526.993, 32.5276)",
+                "radius": 24,
+                "start": "vector3(-102.134, -526.785, 26.5104)"
+            },
+            "camPos": "vector3(-113, -545, 45)",
+            "hash": "ab6b54e6",
+            "jumpPos": {
+                "end": "vector3(-81.484, -537.15, 43.9048)",
+                "radius": 6,
+                "start": "vector3(-86.1905, -537.107, 38.1198)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-1718.67, -678.651, 14.0662)",
+                "radius": 78.5,
+                "start": "vector3(-1634.04, -735.411, 9.3695)"
+            },
+            "camPos": "vector3(-1610, -714, 22)",
+            "hash": "ba86fe15",
+            "jumpPos": {
+                "end": "vector3(-1603.42, -727.029, 25.6366)",
+                "radius": 15,
+                "start": "vector3(-1593.98, -752.0, 21.26)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-348.309, -192.379, 41.1586)",
+                "radius": 33.5,
+                "start": "vector3(-288.784, -199.221, 36.6353)"
+            },
+            "camPos": "vector3(-268, -223, 50)",
+            "hash": "3473ac46",
+            "jumpPos": {
+                "end": "vector3(-234.429, -206.481, 50.083)",
+                "radius": 6,
+                "start": "vector3(-248.656, -215.402, 47.083)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-1443.34, 247.949, 63.5558)",
+                "radius": 55.5,
+                "start": "vector3(-1431.15, 327.976, 60.3815)"
+            },
+            "camPos": "vector3(-1474, 352.8, 104.1)",
+            "hash": "82e816a5",
+            "jumpPos": {
+                "end": "vector3(-1447.8, 402.925, 114.297)",
+                "radius": 6,
+                "start": "vector3(-1442.92, 403.04, 109.287)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(3445.44, 5168.27, 9.6062)",
+                "radius": 32.25,
+                "start": "vector3(3418.53, 5166.28, 3.85781)"
+            },
+            "camPos": "vector3(3391, 5177, 18)",
+            "hash": "7cba3efd",
+            "jumpPos": {
+                "end": "vector3(3352.75, 5148.52, 24.133)",
+                "radius": 10,
+                "start": "vector3(3351.99, 5156.33, 18.2075)"
+            }
+        },
+        {
+            "camPos": "vector3(1648, 2359, 80)",
+            "jumpPos": {
+                "end": "vector3(1674.01, 2340.7, 78.2578)",
+                "radius": 6,
+                "start": "vector3(1687.48, 2340.26, 73.3644)"
+            },
+            "landingPos": {
+                "end": "vector3(1684.3, 2434.85, 48.5652)",
+                "radius": 40,
+                "start": "vector3(1685.36, 2411.07, 43.4266)"
+            },
+            "hash": "c7636584",
+            "HighRisk": true
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-902.292, -857.796, 20.241)",
+                "radius": 38.25,
+                "start": "vector3(-963.61, -859.197, 11.9897)"
+            },
+            "camPos": "vector3(-910, -876, 25)",
+            "hash": "355112f6",
+            "jumpPos": {
+                "end": "vector3(-884.027, -849.3, 28.1236)",
+                "radius": 9,
+                "start": "vector3(-882.795, -854.275, 17.6236)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(448.998, -1594.91, 32.3054)",
+                "radius": 55.25,
+                "start": "vector3(423.401, -1627.28, 27.2918)"
+            },
+            "camPos": "vector3(424, -1656, 51)",
+            "hash": "d8f2d7b1",
+            "jumpPos": {
+                "end": "vector3(400.591, -1659.71, 53.0802)",
+                "radius": 8,
+                "start": "vector3(396.101, -1656.24, 48.0006)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(119.48, -808.371, 34.3488)",
+                "radius": 24.5,
+                "start": "vector3(74.7116, -792.113, 29.6429)"
+            },
+            "camPos": "vector3(73, -769, 46)",
+            "hash": "e8117863",
+            "jumpPos": {
+                "end": "vector3(50.3806, -784.982, 47.1896)",
+                "radius": 6,
+                "start": "vector3(49.87, -782.25, 43.17)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-21.4837, 6456.29, 33.3664)",
+                "radius": 32.25,
+                "start": "vector3(28.0924, 6507.57, 29.4389)"
+            },
+            "camPos": "vector3(1.0814, 6495.76, 39.2608)",
+            "hash": "39005521",
+            "jumpPos": {
+                "end": "vector3(44.7602, 6513.2, 41.5607)",
+                "radius": 13.5,
+                "start": "vector3(40.02, 6521.35, 32.36)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(1806.04, 1994.97, 63.3383)",
+                "radius": 20,
+                "start": "vector3(1839.67, 1912.06, 56.9601)"
+            },
+            "camPos": "vector3(1774, 2030, 71)",
+            "hash": "e95d575f",
+            "jumpPos": {
+                "end": "vector3(1783.49, 2044.98, 68.8421)",
+                "radius": 6,
+                "start": "vector3(1789.05, 2049.24, 65.453)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-1042.76, 4.53342, 45.6561)",
+                "radius": 10,
+                "start": "vector3(-1059.8, 7.50502, 59.6298)"
+            },
+            "camPos": "vector3(-1062, 24, 63)",
+            "hash": "e3f0d577",
+            "jumpPos": {
+                "end": "vector3(-1071.09, 8.39493, 55.3763)",
+                "radius": 6,
+                "start": "vector3(-1070.76, 10.7039, 50.3488)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(1495.26, 3532.62, 40.8616)",
+                "radius": 41.625,
+                "start": "vector3(1590.55, 3584.66, 30.7289)"
+            },
+            "camPos": "vector3(1557, 3589, 42)",
+            "hash": "de11570c",
+            "jumpPos": {
+                "end": "vector3(1629.74, 3603.82, 42.636)",
+                "radius": 9.875,
+                "start": "vector3(1637.9, 3608.28, 33.4749)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(607.391, -744.896, 15.9071)",
+                "radius": 80,
+                "start": "vector3(584.375, -656.736, 10.542)"
+            },
+            "camPos": "vector3(550, -632, 45)",
+            "hash": "fd3ae617",
+            "jumpPos": {
+                "end": "vector3(564.135, -594.536, 48.96)",
+                "radius": 6,
+                "start": "vector3(566.68, -594.16, 43.868)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(557.421, -1461.43, 32.1925)",
+                "radius": 46.5,
+                "start": "vector3(491.945, -1413.2, 27.3054)"
+            },
+            "camPos": "vector3(495, -1397, 48)",
+            "hash": "c89e2d63",
+            "jumpPos": {
+                "end": "vector3(449.321, -1379.44, 48.0761)",
+                "radius": 6,
+                "start": "vector3(452.999, -1374.92, 43.0297)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-430.461, -1535.31, 28.2127)",
+                "radius": 25.5,
+                "start": "vector3(-425.473, -1443.89, 19.72)"
+            },
+            "camPos": "vector3(-444.52, -1511.76, 27.8632)",
+            "hash": "70531a49",
+            "jumpPos": {
+                "end": "vector3(-418.99, -1557.32, 31.4163)",
+                "radius": 9.5,
+                "start": "vector3(-425.599, -1555.61, 22.7068)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-1027.99, -2895.44, 16.9581)",
+                "radius": 18,
+                "start": "vector3(-988.83, -2830.79, 11.9648)"
+            },
+            "camPos": "vector3(-967.196, -2811.72, 14.5521)",
+            "hash": "d8d92846",
+            "jumpPos": {
+                "end": "vector3(-965.736, -2777.12, 19.464)",
+                "radius": 8,
+                "start": "vector3(-963.171, -2778.51, 14.4783)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-2040.34, -281.888, 26.5394)",
+                "radius": 71.75,
+                "start": "vector3(-2102.13, -241.923, 7.67772)"
+            },
+            "camPos": "vector3(-2060.9, -251.844, 35.9419)",
+            "hash": "0b88705a",
+            "jumpPos": {
+                "end": "vector3(-2000.67, -306.367, 51.545)",
+                "radius": 12,
+                "start": "vector3(-2004.17, -313.19, 47.44)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(1665.78, 3198.19, 46.2401)",
+                "radius": 60.5,
+                "start": "vector3(1658.69, 3255.26, 38.5722)"
+            },
+            "camPos": "vector3(1651, 3166, 57)",
+            "hash": "b2c0bcda",
+            "jumpPos": {
+                "end": "vector3(1680.95, 3154.49, 50.3022)",
+                "radius": 6,
+                "start": "vector3(1671.91, 3151.23, 45.2973)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-443.707, -1514.7, 15.5023)",
+                "radius": 33.5,
+                "start": "vector3(-499.422, -1491.98, 8.40522)"
+            },
+            "camPos": "vector3(-522, -1516, 17)",
+            "hash": "4e5a02a5",
+            "jumpPos": {
+                "end": "vector3(-521.751, -1477.95, 17.3225)",
+                "radius": 9,
+                "start": "vector3(-522.62, -1484.51, 13.34)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(671.314, -2910.3, 9.19164)",
+                "radius": 14,
+                "start": "vector3(734.117, -2910.26, 3.91976)"
+            },
+            "camPos": "vector3(757, -2923, 20)",
+            "hash": "2c6348ac",
+            "jumpPos": {
+                "end": "vector3(787.883, -2910, 10.5928)",
+                "radius": 8,
+                "start": "vector3(787.837, -2912.41, 5.62872)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(1900.4, 2006.59, 61.1736)",
+                "radius": 31,
+                "start": "vector3(1918.17, 1913.68, 55.1092)"
+            },
+            "camPos": "vector3(1928.21, 1911.14, 73.7466)",
+            "hash": "c47579f7",
+            "jumpPos": {
+                "end": "vector3(1980.89, 1942.73, 96.4801)",
+                "radius": 15,
+                "start": "vector3(1983.19, 1935.53, 90.99)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(732.125, -3005.69, 11.8331)",
+                "radius": 37.25,
+                "start": "vector3(782.193, -2994.93, 4.0369)"
+            },
+            "camPos": "vector3(715, -3024, 20)",
+            "hash": "0fad9a4a",
+            "jumpPos": {
+                "end": "vector3(672.004, -3007.07, 10.866)",
+                "radius": 6,
+                "start": "vector3(672.259, -3003.4, 6.04791)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(82.3189, -2706.24, 7.0052)",
+                "radius": 23.25,
+                "start": "vector3(93.9696, -2739.86, 4.5052)"
+            },
+            "camPos": "vector3(92, -2786, 15)",
+            "hash": "3de4be21",
+            "jumpPos": {
+                "end": "vector3(110.254, -2814.76, 14.2368)",
+                "radius": 6,
+                "start": "vector3(108.176, -2815.12, 9.17942)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(128.446, -3311.17, 19.4417)",
+                "radius": 18,
+                "start": "vector3(127.455, -3257.39, 14.7799)"
+            },
+            "camPos": "vector3(108, -3292, 26)",
+            "hash": "c8be0809",
+            "jumpPos": {
+                "end": "vector3(111.06, -3208.93, 12.9126)",
+                "radius": 6,
+                "start": "vector3(109.059, -3209.31, 7.46399)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(134.752, -3068.49, 20.4647)",
+                "radius": 22,
+                "start": "vector3(128.93, -3006.8, 15.4761)"
+            },
+            "camPos": "vector3(113, -2980, 19)",
+            "hash": "0a6dacc8",
+            "jumpPos": {
+                "end": "vector3(122.112, -2955.03, 14.2661)",
+                "radius": 6,
+                "start": "vector3(124.215, -2954.82, 9.25004)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(231.214, -2747.91, 18.9041)",
+                "radius": 16,
+                "start": "vector3(260.693, -2675.16, 16.3222)"
+            },
+            "camPos": "vector3(188, -2749, 24)",
+            "hash": "581ff43c",
+            "jumpPos": {
+                "end": "vector3(183.197, -2774.7, 13.7502)",
+                "radius": 6.25,
+                "start": "vector3(174.631, -2782.51, 7.01367)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(142.218, -2849.85, 18.4599)",
+                "radius": 28.25,
+                "start": "vector3(142.233, -2895.04, 12.9599)"
+            },
+            "camPos": "vector3(173, -2918, 20)",
+            "hash": "6e1496b9",
+            "jumpPos": {
+                "end": "vector3(165.738, -2960.98, 12.7693)",
+                "radius": 6,
+                "start": "vector3(163.68, -2961.33, 7.71249)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(272.099, -2860.96, 9.01978)",
+                "radius": 60.75,
+                "start": "vector3(274.983, -2988.8, 3.44759)"
+            },
+            "camPos": "vector3(284, -2968, 16)",
+            "hash": "b3d1f9e3",
+            "jumpPos": {
+                "end": "vector3(288.32, -3013.42, 13.832)",
+                "radius": 6,
+                "start": "vector3(285.75, -3014.05, 8.7746)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(442.472, -2630.01, 7.15538)",
+                "radius": 18,
+                "start": "vector3(506.06, -2627.23, 4.58612)"
+            },
+            "camPos": "vector3(412, -2621, 21)",
+            "hash": "bbd4c942",
+            "jumpPos": {
+                "end": "vector3(371.629, -2637.31, 14.3964)",
+                "radius": 6,
+                "start": "vector3(371.472, -2635.26, 9.34914)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-885.429, -2483.41, 23.9461)",
+                "radius": 95.25,
+                "start": "vector3(-798.081, -2469.66, 11.8845)"
+            },
+            "camPos": "vector3(-891.852, -2466.82, 60.0357)",
+            "hash": "fca3920f",
+            "jumpPos": {
+                "end": "vector3(-850.61, -2553.97, 27.4333)",
+                "radius": 6,
+                "start": "vector3(-854.313, -2551.84, 20.4186)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-1014.48, -2600.25, 40.1058)",
+                "radius": 50.25,
+                "start": "vector3(-987.578, -2554.47, 32.7058)"
+            },
+            "camPos": "vector3(-1023, -2516, 43)",
+            "hash": "4bc7d1df",
+            "jumpPos": {
+                "end": "vector3(-990.486, -2504.88, 27.3847)",
+                "radius": 6,
+                "start": "vector3(-986.526, -2507.19, 20.4524)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-763.732, -1463.67, 6.00051)",
+                "radius": 42.5,
+                "start": "vector3(-704.963, -1488.52, 3.17258)"
+            },
+            "camPos": "vector3(-669, -1537, 33)",
+            "hash": "c6458ddd",
+            "jumpPos": {
+                "end": "vector3(-587.617, -1526.17, 6.21394)",
+                "radius": 8,
+                "start": "vector3(-587.0, -1528.79, 3.36)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-668.694, -1051.68, 17.6311)",
+                "radius": 28.25,
+                "start": "vector3(-704.263, -1075.64, 11.3119)"
+            },
+            "camPos": "vector3(-641, -1061, 25)",
+            "hash": "4e24ffd4",
+            "jumpPos": {
+                "end": "vector3(-625.038, -1070.02, 26.0584)",
+                "radius": 7,
+                "start": "vector3(-626.575, -1075.9, 21.0667)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-454.379, -1482.43, 34.7345)",
+                "radius": 16.75,
+                "start": "vector3(-456.188, -1440.83, 27.2972)"
+            },
+            "camPos": "vector3(-436, -1417, 39)",
+            "hash": "cd0f2d44",
+            "jumpPos": {
+                "end": "vector3(-449.635, -1397.11, 35.3039)",
+                "radius": 6,
+                "start": "vector3(-453.647, -1397.42, 30.3271)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-445.181, -499.799, 20.8235)",
+                "radius": 24.25,
+                "start": "vector3(-445.7, -442.116, 40.4093)"
+            },
+            "camPos": "vector3(-464, -526, 30)",
+            "hash": "0385c3ca",
+            "jumpPos": {
+                "end": "vector3(-442.516, -542.055, 29.5236)",
+                "radius": 6,
+                "start": "vector3(-445.239, -542.014, 24.5005)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-603.112, -120.366, 40.4407)",
+                "radius": 6.75,
+                "start": "vector3(-625.076, -166.668, 35.6694)"
+            },
+            "camPos": "vector3(-601, -124, 44)",
+            "hash": "70e63dda",
+            "jumpPos": {
+                "end": "vector3(-600.709, -107.168, 45.9851)",
+                "radius": 6.375,
+                "start": "vector3(-597.64, -108.64, 41.85)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(-855.154, -118.441, 40.3278)",
+                "radius": 30,
+                "start": "vector3(-771.463, -75.3962, 35.8518)"
+            },
+            "camPos": "vector3(-737, -78, 46)",
+            "hash": "22598225",
+            "jumpPos": {
+                "end": "vector3(-728.837, -54.5707, 42.724)",
+                "radius": 6,
+                "start": "vector3(-727.13, -56.25, 40.59)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(1361.27, -2295.88, 68.7047)",
+                "radius": 34.75,
+                "start": "vector3(1429.02, -2249.86, 59.3838)"
+            },
+            "camPos": "vector3(1457, -2255, 79)",
+            "hash": "5ecf2df0",
+            "jumpPos": {
+                "end": "vector3(1478.21, -2215.55, 80.6207)",
+                "radius": 6,
+                "start": "vector3(1480.18, -2218.54, 77.7565)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(433.924, -2495.27, 17.2394)",
+                "radius": 25.75,
+                "start": "vector3(401.676, -2508.97, 10.1397)"
+            },
+            "camPos": "vector3(376, -2490, 18)",
+            "hash": "2906e714",
+            "jumpPos": {
+                "end": "vector3(367.948, -2525.47, 10.8799)",
+                "radius": 6,
+                "start": "vector3(367.164, -2522.26, 6.24641)"
+            }
+        }
+    ],
+    "normalStuntJumps": [
+        {
+            "landingPos": {
+                "end": "vector3(390.87, -627.327, 30.9727)",
+                "start": "vector3(334.095, -649.098, 27.6553)"
+            },
+            "camPos": "vector3(319, -612, 45)",
+            "hash": "61ef32e2",
+            "jumpPos": {
+                "end": "vector3(309.887, -619.026, 45.4455)",
+                "start": "vector3(307.356, -621.01, 42.3353)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(344.401, -1168.45, 40.4272)",
+                "start": "vector3(289.772, -1195.96, 37.1024)"
+            },
+            "camPos": "vector3(366, -1150, 43)",
+            "hash": "5bac98de",
+            "jumpPos": {
+                "end": "vector3(374.843, -1153.45, 34.7019)",
+                "start": "vector3(369.39, -1159.1, 31.09)"
+            }
+        },
+        {
+            "landingPos": {
+                "end": "vector3(45.7866, -2177.57, 10.1184)",
+                "start": "vector3(15.7866, -2207.57, 3.1184)"
+            },
+            "camPos": "vector3(80.9447, -2199.3, 4.9105)",
+            "hash": "9c625166",
+            "jumpPos": {
+                "end": "vector3(94.6931, -2186.28, 8.747)",
+                "start": "vector3(89.14, -2191.13, 5.99)"
+            }
+        }
+    ]
+}
