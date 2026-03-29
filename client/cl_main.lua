@@ -4,6 +4,7 @@ local wasAirborne = false
 local jumpStartTime = 0
 local insideLandingZone = false 
 local maxJumpHeight = 0
+local minJumpHeight = 0
 local stuntCam = nil
 local currentJumpData = nil
 local isProcessingResult = false
@@ -64,7 +65,9 @@ local function LoadJumps()
                             wasAirborne = false
                             insideLandingZone = false
                             jumpStartTime = GetGameTimer() 
-                            maxJumpHeight = GetEntityCoords(veh).z
+                            local startZ = GetEntityCoords(veh).z
+                            maxJumpHeight = startZ
+                            minJumpHeight = startZ
                         end
                     end
                 })
@@ -89,7 +92,7 @@ local function LoadJumps()
                             local veh = GetVehiclePedIsIn(ped, false)
                             if wasAirborne and veh ~= 0 and IsVehicleOnAllWheels(veh) and GetEntitySpeed(veh) > 2.0 then
                                 local totalTime = (GetGameTimer() - jumpStartTime) / 1000
-                                local heightGained = maxJumpHeight - startPos.z
+                                local heightGained = maxJumpHeight - minJumpHeight
                                 CompleteJump(jumpId, totalTime, heightGained)
                             end
                         end
@@ -216,7 +219,7 @@ CreateThread(function()
                 local coords = GetEntityCoords(veh)
                 local velocity = GetEntityVelocity(veh)
                 
-                if coords.z > maxJumpHeight then maxJumpHeight = coords.z end
+                if coords.z < minJumpHeight then minJumpHeight = coords.z end
 
                 local isCurrentlyAirborne = IsEntityInAir(veh) and GetEntityHeightAboveGround(veh) > Config.AirborneThreshold
 
